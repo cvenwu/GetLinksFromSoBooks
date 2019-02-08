@@ -1,0 +1,2 @@
+# GetLinksFromSoBooks
+从SoBooks爬取所有Kindle书的百度网盘链接以及提取码，用户可以直接浏览本项目，直接下载

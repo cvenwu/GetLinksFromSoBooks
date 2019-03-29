@@ -59,6 +59,6 @@ for i in range(len(bookNameList)):
     sheet['D' + str(i + 2)] = extractPassword
     browser.close()
     # nextPage = browser.find_element_by_link_text('下一页')
-excel.save('book.xlsx')
+    excel.save('book.xlsx')
 
 

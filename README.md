@@ -15,13 +15,13 @@
 pip install requests
 pip install beautifulsoup4
 pip install selenium
-pip install openpyxl
 ```
 
 ## v0.2
 
 
 ### 代码结构
+
 <details>
 <summary>展开查看</summary>
 <pre><code>.
